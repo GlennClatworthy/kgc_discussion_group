@@ -1,13 +1,8 @@
-Annotation properties
 Anonymous class
 Anonymous property
-Arithmetic expressions
 Axiom
 Blank nodes
-Boolean expressions
-Cardinality
 Class
-Class restrictions
 Construct queries
 Data properties
 Datatypes
@@ -15,7 +10,9 @@ Disjoint
 Domains
 Dublin Core
 Equivalence
-Expressions
+* Expressions
+	* Arithmetic expressions
+	* Boolean expressions
 Expressivity
 FIBO
 FOAF
@@ -27,7 +24,6 @@ HTTP
 Identifier
 Inference
 Intersection
-Inverse
 Knowledge graph
 Linked data
 Literals
@@ -46,10 +42,20 @@ Namespaces
 Object properties
 Ontology
 Open Graph Protocol
-OWL
-OWL2
-Property
-Property restrictions
+* OWL
+	* OWL dialects
+		* OWL2
+* Property
+	* OWL property types
+		* Object property
+		* Data property
+		* Annotation property
+	* Inverse property
+	* Functional property
+	* Inverse functional property
+	* Symmetric and Asymmetric Properties
+		* Asymmetric property
+		* Symmetric property
 Query
 Ranges
 rdf:type
@@ -57,8 +63,9 @@ RDFS
 RDFS Plus
 rdfxml
 Resource Description Framework
-Restrictions
-Reverse functional property
+* Restrictions
+	* Class restrictions
+	* Property restrictions
 Schema
 Schema.org
 Semantic web
@@ -69,7 +76,6 @@ Statement
 Subclass
 Subject
 Subproperty
-Symmetric and Asymmetric Properties
 Taxonomy
 Transitive property
 Transitivity
